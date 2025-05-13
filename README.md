@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-
-
-- 🔭 I’m currently working on [Utopia](https://github.com/Utopia7017/utopia) as a flutter developer
-
-- 🌱 I’m currently learning **flutter**
-
-- 📫 How to reach me **mahatovishal2001@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e2dc1b1-d57a-4b05-96e3-44d22bb2da0d" width="400" />
 </p>
+
+## Hi 👋, I'm Vishal Mahato
+
+Better known as Kaizer111, a passionate Application developer based in India, I bring a wealth of technical expertise and a zest for creating digital wonders.
